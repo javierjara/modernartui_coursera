@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Modernartui</string>
+    <string name="action_more_information">More information</string>
+    <string name="dialog_text">Inspired by the works of artists from the Museum of Modern Art in New York.\n\nClick below to learn more!</string>
+    <string name="dialog_not_now">Not now</string>
+    <string name="dialog_visit">Visit MOMA</string>
+    <string name="open_with">Open with</string>
+
+    <color name="white">#ffffff</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="black">#000000</color>
+    <color name="green">#49871E</color>
+    <color name="blue">#445688</color>
+    <color name="dark_gray">#296068</color>
+    <color name="red">#C10100</color>
+    <color name="dark_blue">#447799</color>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
